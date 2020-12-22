@@ -1,4 +1,4 @@
-name: ArcherySec CI/CD
+name: Docker build and push
 
 on:
   push:
